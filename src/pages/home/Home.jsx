@@ -1,9 +1,11 @@
-const Home = () => {
+const MyHome = () => {
+  const x = 5;
+
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <section>
+      <h1>Merna {x}</h1>
+    </section>
   );
 };
 
-export default Home;
+export default MyHome;
