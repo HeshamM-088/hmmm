@@ -4,6 +4,7 @@ const MyHome = () => {
   return (
     <section>
       <h1>Merna {x}</h1>
+      <h1>HESHAM</h1>
     </section>
   );
 };
